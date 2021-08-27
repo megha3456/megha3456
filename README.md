@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Megha kumari jha
+- 👋 Hi, I’m Megha kumari jha.
 - 👀 I’m interested in website development.
 - 🌱 I’m currently learning software technology.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? Mail me 190101120108@cutm.ac.in
+- 📫 How to reach me ?
+- it's Simple:-  Mail me 190101120108@cutm.ac.in
 
 <!---
 megha3456/megha3456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
